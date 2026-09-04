@@ -435,7 +435,7 @@
             .category-grid { grid-template-columns: repeat(2,1fr); }
             .product-grid { grid-template-columns: 1fr; }
         }
-        button { background: none; border: none; cursor: pointer; }
+        
         .theme-toggle { cursor: pointer; }
     </style>
 </head>
